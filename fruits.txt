@@ -1,5 +1,5 @@
 apples
-yellow bananas
+bananas
 grapes
 oranges
 strawberries
